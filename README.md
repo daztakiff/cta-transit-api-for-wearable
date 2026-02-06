@@ -11,6 +11,9 @@ Node.js
 Fastify
 TypeScript
 In-memory data storage (for now)
+# health
+GET /health
+200 OK
 
 # getStopbyId
 GET /v1/stops/:id
