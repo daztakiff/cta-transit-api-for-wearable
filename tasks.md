@@ -1,29 +1,30 @@
 cta-backend-api — Task List
 Repository & Project Setup
 
-[ ] Create new Git repository
-[ ] Initialize Node.js project (npm init)
+[x] Create new Git repository
+[x] Initialize Node.js project (npm init)
 [ ] Add .gitignore (node, dist, env)
-[ ] Add README.md
+[x] Add README.md
 [ ] Choose license and add LICENSE file
 
 Tooling & Dependencies
 
-[ ] Install Fastify
-[ ] Install TypeScript
-[ ] Install ts-node / tsx for local dev
-[ ] Install @types/node
-[ ] Add build scripts (dev, build, start)
-[ ] Configure ESLint (optional)
-[ ] Configure Prettier (optional)
+[x] Install Fastify
+[x] Install TypeScript
+[x] Install ts-node / tsx for local dev
+[x] Install @types/node
+[x] Add build scripts (dev, build, start)
+[x] Add tsconfig.json
+[x] Configure ESLint (optional)
+[x] Configure Prettier (optional)
 
 Fastify Server Bootstrap
 
-[ ] Create src/ directory
-[ ] Create Fastify server entry point
-[ ] Add basic server start logic
-[ ] Add health check endpoint (GET /health)
-[ ] Verify server starts and responds
+[x] Create src/ directory
+[x] Create Fastify server entry point
+[x] Add basic server start logic
+[x] Add ping check endpoint (GET /ping Return pong)
+[x] Verify server starts and responds
 
 Configuration & Environment
 
